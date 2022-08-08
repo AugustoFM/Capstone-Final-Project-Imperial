@@ -54,7 +54,7 @@ This model was created to understand the how the various features impacts the pr
 
 Features impacting on price composition in the entire data set:
 
-![Screenshot](Feature importance All data set.png) 
+![alt text](http://url/to/img.png)(Feature importance All data set.png) 
 
 Features impacting on price composition in cluster 0:
 
