@@ -54,7 +54,7 @@ This model was created to understand the how the various features impacts the pr
 
 Features impacting on price composition in the entire data set:
 
-![alt text](http://url/to/img.png)(Feature importance All data set.png) 
+![alt text]([(https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/fc2328151a46d2cb75bd6a109c1917fb416a6dfc/Feature%20importance%20All%20data%20set.png)]) 
 
 Features impacting on price composition in cluster 0:
 
