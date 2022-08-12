@@ -33,7 +33,7 @@ n.	MEDV Median value of owner-occupied homes in $1000's
 **Output:** The model presents the Shap graph for the entire data set and for the selected subset data. An example is provided below:
 1. Shap graphic for the entire Cluster 2 data set
 
-![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/9d505a6fe155510189cd231923062296e63a52fb/images/Shap%20value%20example%20Cluster%202.png)
+![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/249b883cd66594f1bba08235bcd053b033fa0a51/images/Shap%20values%20Cluster%202.png)
 
 2. Example of Shap analysis for one sample of cluster 2:
 
