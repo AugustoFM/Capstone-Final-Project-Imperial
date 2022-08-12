@@ -9,8 +9,8 @@ We studied an existing real estate data set to see if a features importance anal
 We also use Shap analysis to shadow some lights in the pricing trade-offs of some designing features. We use an Ensemble of Random Forest Regressor tuned by grid search to predict the transaction values.
 
 
-
 ## DATA
+
 The data was taken from kaggle and it is from a set of real estate transactions of the Boston area. This data set was particularly interesting as despite the transactions are not similar to the ones my company performs, it has some features very relevant to our company. As this project was used for internal thought-provoking purpose it was quite insightful that those features were present.
 
 More information on the data set can be found on the RE data-sheet file loaded in this directory.
@@ -46,7 +46,7 @@ hp_candidates = [{'n_estimators'      : [100, 200, 300],
                                           None]  
                  }]
 
-The best recommened parameters was used in for the regression
+The best recommened parameters was used for the value transaction prediction.
 
 ## RESULTS
 
@@ -58,11 +58,19 @@ Below it is a sample of results, and in the image folder of the directory all re
 
 The overall data set feature analysis:
 
+![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/9d505a6fe155510189cd231923062296e63a52fb/images/Feature%20importance%20All%20data%20set.png) 
+
 The Shap analysis for the entire set:
+
+![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/f071f546f2714b0e4aa5e4c765096ff1e6b8e720/images/Shap%20values%20All%20data.png)
 
 The feature analysis for cluster 1:
 
+![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/f071f546f2714b0e4aa5e4c765096ff1e6b8e720/images/Feature%20importance%20Cluster%201.png)
+
 The Shap analysis for the cluster 1:
+
+![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/f071f546f2714b0e4aa5e4c765096ff1e6b8e720/images/Shap%20values%20Cluster%201.png)
 
 As it can be seen it is quite different one from another and we claim it would be quite relevant to shadow some lights in the product design phase as well as in pricing policy and transparency. Those aspects are even more relevant in a context of public financed real estate developers.
 
