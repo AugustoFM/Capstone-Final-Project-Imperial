@@ -58,7 +58,7 @@ Features impacting on price composition in the entire data set:
 
 Features impacting on price composition in cluster 0:
 
-![alt text](images/Feature importance Cluster 0.png)
+![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/278154a5f7c92af6a2402cf08c483a663108918b/images/Feature%20importance%20Cluster%200.png)
 
 As it can be seen the features are significant different from the entire set to cluster 0. Therefore this information is very valuable in product design.
 
