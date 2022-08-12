@@ -60,7 +60,7 @@ Features impacting on price composition in cluster 0:
 
 ![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/278154a5f7c92af6a2402cf08c483a663108918b/images/Feature%20importance%20Cluster%200.png)
 
-As it can be seen the features are significant different from the entire set to cluster 0. Therefore this information is very valuable in product design.
+As it can be seen the features are significant different from the entire set to cluster 0. Therefore this information is very valuable in product design, and in combination with the shap value it can be used to price different trade-offs when evaluating different product configuration. This can be a very strong profit optimization tool for real estate developers. It would potentilly increase the commercialization of the products with a consequent increase in return. 
 
 A grid search was used to select the best hyperparements in each case and the accuracy was implemented as below:
 
