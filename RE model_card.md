@@ -33,11 +33,11 @@ n.	MEDV Median value of owner-occupied homes in $1000's
 **Output:** The model presents the Shap graph for the entire data set and for the selected subset data. An example is provided below:
 1. Shap graphic for the entire Cluster 2 data set
 
-![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/main/Shap%20values%20Cluster%202.png)
+![alt text](images/Shap value example Cluster 2.png)
 
 2. Example of Shap analysis for one sample of cluster 2:
 
-![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/main/Shap%20value%20example%20Cluster%202.png)
+![alt text](images/Shap value example Cluster 2.png)
 
 
 **Model Architecture:** The model has the following steps:
@@ -54,11 +54,11 @@ This model was created to understand the how the various features impacts the pr
 
 Features impacting on price composition in the entire data set:
 
-![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/fc2328151a46d2cb75bd6a109c1917fb416a6dfc/Feature%20importance%20All%20data%20set.png) 
+![alt text](images/Feature importance All data set.png) 
 
 Features impacting on price composition in cluster 0:
 
-![alt text](https://github.com/AugustoFM/Capstone-Final-Project-Imperial/blob/a49080ad2133800e15667767cc30d399177ad94e/Feature%20importance%20Cluster%200.png)
+![alt text](images/Feature importance Cluster 0.png)
 
 As it can be seen the features are significant different from the entire set to cluster 0. Therefore this information is very valuable in product design.
 
